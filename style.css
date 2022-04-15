@@ -22,7 +22,7 @@ body{
 canvas{
     border-radius: 10px;
     background-color: rgb(255, 187, 0);
-    box-shadow: 7px 7px 7px white;
+    box-shadow: 7px 7px 7px white; 
 }
 p{
     color: black;
